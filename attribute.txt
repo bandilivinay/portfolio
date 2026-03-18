@@ -1,0 +1,144 @@
+attributeStyleMap
+: 
+StylePropertyMap {size: 0}
+attributes
+: 
+NamedNodeMap {0: lang, 1: class, lang: lang, class: class, length: 2}
+baseURI
+: 
+"https://loquacious-syrniki-181122.netlify.app/"
+childElementCount
+: 
+2
+childNodes
+: 
+NodeList(3)
+0
+: 
+head
+1
+: 
+text
+2
+: 
+body
+length
+: 
+3
+[[Prototype]]
+: 
+NodeList
+children
+: 
+HTMLCollection(2) [head, body]
+classList
+: 
+DOMTokenList ['dark', value: 'dark']
+className
+: 
+"dark"
+clientHeight
+: 
+642
+clientWidth
+: 
+400
+contentEditable
+: 
+"inherit"
+currentCSSZoom
+: 
+1
+dataset
+: 
+DOMStringMap {}
+firstChild
+: 
+head
+firstElementChild
+: 
+head
+innerHTML
+: 
+"<head>\n    <meta charset=\"UTF-8\">\n    <link r
+innerText
+: 
+"B. Vinay\nWelcome to my portfolio\nHi, I'm B. Vinay\nB.Tech CSE Student\n•\nJNTU Ananthapur\nCareer Objective\n\nTo obtain an entry-level position in a reputable organisation where I can apply my engineering knowledge, problem-solving skills, and creativity to contribute to innovative projects and grow professionally.\n\nGet In Touch\n→\nView Projects\n2026\nGraduation\n4+\nCertifications\nScroll to explore\nAcademic Excellence & Growth\n4+\nCertifications\n92.3%\n10th Grade\n86.3%\n12th Grade\n2026\nGraduation\nAbout Me\n\nA dedicated computer science student with strong academic performance, diverse interests, and a passion for technology\n\nEducational Journey\nEducation\n\nAcademic achievements and milestones\n\nCurrent\nB.Tech CSE\nComputer Science & Engineering\n\nJNTU Ananthapur\n\n2022 - 2026\nExpected\nIntermediate\n12th MPC\nMathematics, Physics, Chemistry\n\nSri Chaitanya Junior College\n\nCompleted\n86.3%\nSecondary\n10th SSC\nSecondary School Certificate\n\nZ.P.H.S Urandur\n\nCompleted\n92.3%\nLanguages\n\nCommunication Skills\n\nEN\nEnglish\n\nProfessional Proficiency\n\nहि\nHindi\n\nConversational\n\nతె\nTelugu\n\nNative Language\n\nHobbies & Interests\n\nPersonal Growth\n\nLearning Software Tools\n\nMATLAB & AutoCAD\n\nPublic Speaking\n\nCommunication & Presentation\n\nDebating\n\nCritical Thinking & Argumentation\n\nLanguage Learning\n\nExpanding Communication Skills\n\nSkills & Expertise\n\nA comprehensive toolkit of technical and interpersonal skills developed through academic learning and practical experience\n\nProgramming\n\nCore Languages\n\n🐍\nPython\n85%\n⚡\nC\n80%\n🔧\nC++\n78%\n☕\nJava\n75%\n🗃️\nSQL\n70%\nTools & Tech\n\nProfessional Suite\n\nMS Office\n\nProductivity\n\nExcel\n\nData Analysis\n\nMATLAB\n\nEngineering\n\nAutoCAD\n\nDesign\n\nGit\n\nVersion Control\n\nVS Code\n\nDevelopment\n\nSoft Skills\n\nInterpersonal\n\nCommunication\nExcellent\nTeamwork\nStrong\nProblem Solving\nAdvanced\nLeadership\nDeveloping\nPublic Speaking\nConfident\nCritical Thinking\nSharp\nContinuous Growth Mindset\n\nCommitted to lifelong learning and staying current with emerging technologies. Always eager to take on new challenges and expand my skill set through hands-on experience and collaboration.\n\nRecognition & Learning\nAchievements & Certifications\n\nContinuous learning and active participation in technical and cultural events\n\nCertifications\n\nProfessional Development\n\nIntegrative AI in Web & Application Development\nR Programming Basics for Data Science\nVisualizing Data with R\nAnalyzing Data with R\nActivities\n\nEngagement & Growth\n\nParticipation in hackathons\nTechnical event participation\nCultural event participation\nTeam-based collaborative projects\nProjects & Extracurricular\n\nExciting projects and experiences are coming soon as I continue my academic journey\n\nAcademic Projects\n\nInnovative projects utilizing programming skills and engineering concepts\n\nComing Soon\n\nHackathon Experiences\n\nCollaborative problem-solving and rapid prototyping experiences\n\nIn Progress\n\nTeam Projects\n\nCollaborative development projects showcasing teamwork and technical skills\n\nPlanning Phase\n\nFuture Project Goals\n\nCurrently working on exciting projects that will showcase my technical abilities and problem-solving skills. Stay tuned for updates on web applications, data science projects, and innovative software solutions.\n\nWeb Development\nData Science\nMachine Learning\nMobile Apps\nGet In Touch\n\nLet's connect and discuss opportunities, collaborations, or just have a conversation about technology\n\nContact Information\n\nPhone\n\n+91 9030638566\n\nEmail\n\nbandilivinay10@gmail.com\n\nLocation\n\nAnanthapur, Andhra Pradesh, India\n\nLet's Connect!\n\nI'm always open to discussing new opportunities, interesting projects, or just having a chat about technology and innovation.\n\nSend a Message\nYour Name\nEmail Address\nSubject\nMessage\nSend Message\nB. Vinay\n\nB.Tech CSE Student • JNTU Ananthapur\n\nMade with\nusing React & Tailwind CSS\n\n© 2024 B. Vinay. All rights reserved."
+isConnected
+: 
+true
+lang
+: 
+"en"
+lastChild
+: 
+body
+lastElementChild
+: 
+body
+localName
+: 
+"html"
+namespaceURI
+: 
+"http://www.w3.org/1999/xhtml"
+nodeName
+: 
+"HTML"
+nodeType
+: 
+1
+offsetHeight
+: 
+12294
+offsetWidth
+: 
+400
+outerHTML
+: 
+"<html lang=\"en\" class=\"dark\"><head>\n    <met
+outerText
+: 
+"B. Vinay\nWelcome to my portfolio\nHi, I'm B. Vinay\nB.Tech CSE Student\n•\nJNTU Ananthapur\nCareer Objective\n\nTo obtain an entry-level position in a reputable organisation where I can apply my engineering knowledge, problem-solving skills, and creativity to contribute to innovative projects and grow professionally.\n\nGet In Touch\n→\nView Projects\n2026\nGraduation\n4+\nCertifications\nScroll to explore\nAcademic Excellence & Growth\n4+\nCertifications\n92.3%\n10th Grade\n86.3%\n12th Grade\n2026\nGraduation\nAbout Me\n\nA dedicated computer science student with strong academic performance, diverse interests, and a passion for technology\n\nEducational Journey\nEducation\n\nAcademic achievements and milestones\n\nCurrent\nB.Tech CSE\nComputer Science & Engineering\n\nJNTU Ananthapur\n\n2022 - 2026\nExpected\nIntermediate\n12th MPC\nMathematics, Physics, Chemistry\n\nSri Chaitanya Junior College\n\nCompleted\n86.3%\nSecondary\n10th SSC\nSecondary School Certificate\n\nZ.P.H.S Urandur\n\nCompleted\n92.3%\nLanguages\n\nCommunication Skills\n\nEN\nEnglish\n\nProfessional Proficiency\n\nहि\nHindi\n\nConversational\n\nతె\nTelugu\n\nNative Language\n\nHobbies & Interests\n\nPersonal Growth\n\nLearning Software Tools\n\nMATLAB & AutoCAD\n\nPublic Speaking\n\nCommunication & Presentation\n\nDebating\n\nCritical Thinking & Argumentation\n\nLanguage Learning\n\nExpanding Communication Skills\n\nSkills & Expertise\n\nA comprehensive toolkit of technical and interpersonal skills developed through academic learning and practical experience\n\nProgramming\n\nCore Languages\n\n🐍\nPython\n85%\n⚡\nC\n80%\n🔧\nC++\n78%\n☕\nJava\n75%\n🗃️\nSQL\n70%\nTools & Tech\n\nProfessional Suite\n\nMS Office\n\nProductivity\n\nExcel\n\nData Analysis\n\nMATLAB\n\nEngineering\n\nAutoCAD\n\nDesign\n\nGit\n\nVersion Control\n\nVS Code\n\nDevelopment\n\nSoft Skills\n\nInterpersonal\n\nCommunication\nExcellent\nTeamwork\nStrong\nProblem Solving\nAdvanced\nLeadership\nDeveloping\nPublic Speaking\nConfident\nCritical Thinking\nSharp\nContinuous Growth Mindset\n\nCommitted to lifelong learning and staying current with emerging technologies. Always eager to take on new challenges and expand my skill set through hands-on experience and collaboration.\n\nRecognition & Learning\nAchievements & Certifications\n\nContinuous learning and active participation in technical and cultural events\n\nCertifications\n\nProfessional Development\n\nIntegrative AI in Web & Application Development\nR Programming Basics for Data Science\nVisualizing Data with R\nAnalyzing Data with R\nActivities\n\nEngagement & Growth\n\nParticipation in hackathons\nTechnical event participation\nCultural event participation\nTeam-based collaborative projects\nProjects & Extracurricular\n\nExciting projects and experiences are coming soon as I continue my academic journey\n\nAcademic Projects\n\nInnovative projects utilizing programming skills and engineering concepts\n\nComing Soon\n\nHackathon Experiences\n\nCollaborative problem-solving and rapid prototyping experiences\n\nIn Progress\n\nTeam Projects\n\nCollaborative development projects showcasing teamwork and technical skills\n\nPlanning Phase\n\nFuture Project Goals\n\nCurrently working on exciting projects that will showcase my technical abilities and problem-solving skills. Stay tuned for updates on web applications, data science projects, and innovative software solutions.\n\nWeb Development\nData Science\nMachine Learning\nMobile Apps\nGet In Touch\n\nLet's connect and discuss opportunities, collaborations, or just have a conversation about technology\n\nContact Information\n\nPhone\n\n+91 9030638566\n\nEmail\n\nbandilivinay10@gmail.com\n\nLocation\n\nAnanthapur, Andhra Pradesh, India\n\nLet's Connect!\n\nI'm always open to discussing new opportunities, interesting projects, or just having a chat about technology and innovation.\n\nSend a Message\nYour Name\nEmail Address\nSubject\nMessage\nSend Message\nB. Vinay\n\nB.Tech CSE Student • JNTU Ananthapur\n\nMade with\nusing React & Tailwind CSS\n\n© 2024 B. Vinay. All rights reserved."
+ownerDocument
+: 
+document
+parentNode
+: 
+document
+part
+: 
+DOMTokenList [value: '']
+previousSibling
+: 
+<!DOCTYPE html>
+scrollHeight
+: 
+12294
+scrollTop
+: 
+492
+scrollWidth
+: 
+400
+spellcheck
+: 
+true
+style
+: 
+CSSStyleDeclaration {accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}
+tabIndex
+: 
+-1
+tagName
+: 
+"HTML"
+textContent
+: 
+"\n    \n    \n    \n    \n    \n    \n    B. Vinay - Personal Portfolio | B.Tech CSE Student\n    \n    \n  \n.__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *\n{\n    visibility: hidden !important;\n}\n\n  \n    B. VinayHomeAboutSkillsAchievementsProjectsContactWelcome to my portfolioHi, I'm B. VinayB.Tech CSE Student•JNTU AnanthapurCareer ObjectiveTo obtain an entry-level position in a reputable organisation where I can apply my engineering knowledge, problem-solving skills, and creativity to contribute to innovative projects and grow professionally.Get In Touch→View Projects2026Graduation4+CertificationsScroll to exploreAcademic Excellence & Growth4+Certifications92.3%10th Grade86.3%12th Grade2026GraduationAbout MeA dedicated computer science student with strong academic performance, diverse interests, and a passion for technologyEducational JourneyEducationAcademic achievements and milestonesCurrentB.Tech CSEComputer Science & EngineeringJNTU Ananthapur2022 - 2026ExpectedIntermediate12th MPCMathematics, Physics, ChemistrySri Chaitanya Junior CollegeCompleted86.3%Secondary10th SSCSecondary School CertificateZ.P.H.S UrandurCompleted92.3%LanguagesCommunication SkillsENEnglishProfessional ProficiencyहिHindiConversationalతెTeluguNative LanguageHobbies & InterestsPersonal GrowthLearning Software ToolsMATLAB & AutoCADPublic SpeakingCommunication & PresentationDebatingCritical Thinking & ArgumentationLanguage LearningExpanding Communication SkillsSkills & ExpertiseA comprehensive toolkit of technical and interpersonal skills developed through academic learning and practical experienceProgrammingCore Languages🐍Python85%⚡C80%🔧C++78%☕Java75%🗃️SQL70%Tools & TechProfessional SuiteMS OfficeProductivityExcelData AnalysisMATLABEngineeringAutoCADDesignGitVersion ControlVS CodeDevelopmentSoft SkillsInterpersonalCommunicationExcellentTeamworkStrongProblem SolvingAdvancedLeadershipDevelopingPublic SpeakingConfidentCritical ThinkingSharpContinuous Growth MindsetCommitted to lifelong learning and staying current with emerging technologies. Always eager to take on new challenges and expand my skill set through hands-on experience and collaboration.Recognition & LearningAchievements & CertificationsContinuous learning and active participation in technical and cultural eventsCertificationsProfessional DevelopmentIntegrative AI in Web & Application DevelopmentR Programming Basics for Data ScienceVisualizing Data with RAnalyzing Data with RActivitiesEngagement & GrowthParticipation in hackathonsTechnical event participationCultural event participationTeam-based collaborative projectsProjects & ExtracurricularExciting projects and experiences are coming soon as I continue my academic journeyAcademic ProjectsInnovative projects utilizing programming skills and engineering conceptsComing SoonHackathon ExperiencesCollaborative problem-solving and rapid prototyping experiencesIn ProgressTeam ProjectsCollaborative development projects showcasing teamwork and technical skillsPlanning PhaseFuture Project GoalsCurrently working on exciting projects that will showcase my technical abilities and problem-solving skills. Stay tuned for updates on web applications, data science projects, and innovative software solutions.Web DevelopmentData ScienceMachine LearningMobile AppsGet In TouchLet's connect and discuss opportunities, collaborations, or just have a conversation about technologyContact InformationPhone+91 9030638566Emailbandilivinay10@gmail.comLocationAnanthapur, Andhra Pradesh, IndiaLet's Connect!I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology and innovation.Send a MessageYour NameEmail AddressSubjectMessageSend MessageB. VinayB.Tech CSE Student • JNTU AnanthapurMade withusing React & Tailwind CSS© 2024 B. Vinay. All rights reserved.\n  \n"
+translate
+: 
+true
+writingSuggestions
+: 
+"true"
